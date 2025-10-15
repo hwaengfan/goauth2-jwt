@@ -1,1 +1,1 @@
-Auth Service
+Oauth2 Library
