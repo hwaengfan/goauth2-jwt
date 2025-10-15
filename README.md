@@ -1,1 +1,1 @@
-Oauth2 Library
+goauth2-jwt
